@@ -1,0 +1,35 @@
+%\documentclass[14pt]{report} 
+\documentclass[14pt]{../sty/NSLReport} % Базовый стиль - поправленный стандартный report, они взаимозаменяемы
+
+\RequirePackage{../sty/NSLExtra} % Расширение над NSLReport, включая longtable, caption, biblatex и прочие must have пакеты
+
+% Не забудьте переключить титульный лист
+\RequirePackage{../sty/NSLDisser} % Изменения стиля под ГОСТ Р 7.0.11
+
+\include{preamble.inc} % Особые пакеты для этого документа
+\include{macros.inc}   % Особые макросы для этого документа
+
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian]{babel}
+
+\usepackage{tempora}  % Times for numbers in math mode
+\usepackage{newtxmath}
+
+\renewcommand*{\multicitedelim}{\addcomma\space}
+\begin{document}
+
+\addtocontents{toc}{\string\iffalse}
+\tableofcontents
+\addtocontents{toc}{\string\fi}
+
+\include{02-intro}
+
+\include{92-biblio}
+
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "rpz"
+%%% End: 

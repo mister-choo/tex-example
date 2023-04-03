@@ -1,0 +1,15 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'rpz.blg'
+[25] biber:313> INFO - === Mon Apr  3, 2023, 10:21:45
+[50] Biber.pm:371> INFO - Reading 'rpz.bcf'
+[136] Biber.pm:857> INFO - Found 1 citekeys in bib section 0
+[151] Biber.pm:3981> INFO - Processing section 0
+[161] Biber.pm:4154> INFO - Looking for bibtex format file 'rpz.bib' for section 0
+[165] bibtex.pm:1468> INFO - LaTeX decoding ...
+[198] bibtex.pm:1294> INFO - Found BibTeX data source 'rpz.bib'
+[217] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[217] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[217] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[218] Biber.pm:3815> INFO - No sort tailoring available for locale 'ru-RU'
+[219] bbl.pm:617> INFO - Writing 'rpz.bbl' with encoding 'UTF-8'
+[221] bbl.pm:720> INFO - Output to rpz.bbl

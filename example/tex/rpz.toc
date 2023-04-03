@@ -1,0 +1,10 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
+\defcounter {refsection}{0}\relax 
+\iffalse 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\IeC {\CYRS }\IeC {\CYRO }\IeC {\CYRD }\IeC {\CYRE }\IeC {\CYRR }\IeC {\CYRZH }\IeC {\CYRA }\IeC {\CYRN }\IeC {\CYRI }\IeC {\CYRE }\markboth {\MakeUppercase {\IeC {\CYRS }\IeC {\CYRO }\IeC {\CYRD }\IeC {\CYRE }\IeC {\CYRR }\IeC {\CYRZH }\IeC {\CYRA }\IeC {\CYRN }\IeC {\CYRI }\IeC {\CYRE }}}{\MakeUppercase {\IeC {\CYRS }\IeC {\CYRO }\IeC {\CYRD }\IeC {\CYRE }\IeC {\CYRR }\IeC {\CYRZH }\IeC {\CYRA }\IeC {\CYRN }\IeC {\CYRI }\IeC {\CYRE }}}}{1}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\fi 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\IeC {\CYRS }\IeC {\CYRP }\IeC {\CYRI }\IeC {\CYRS }\IeC {\CYRO }\IeC {\CYRK } \IeC {\CYRI }\IeC {\CYRS }\IeC {\CYRP }\IeC {\CYRO }\IeC {\CYRL }\IeC {\CYRSFTSN }\IeC {\CYRZ }\IeC {\CYRU }\IeC {\CYRE }\IeC {\CYRM }\IeC {\CYRERY }\IeC {\CYRH } \IeC {\CYRI }\IeC {\CYRS }\IeC {\CYRT }\IeC {\CYRO }\IeC {\CYRCH }\IeC {\CYRN }\IeC {\CYRI }\IeC {\CYRK }\IeC {\CYRO }\IeC {\CYRV }}{3}{chapter*.2}

@@ -1,0 +1,54 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rek}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=1f14d8da82b6165376d2f51f4c553d93}{%
+           family={Клименко},
+           familyi={К\bibinitperiod},
+           given={НА},
+           giveni={Н\bibinitperiod}}}%
+        {{hash=07992efd75a8b8b37d5dbf34c771d388}{%
+           family={Иванова},
+           familyi={И\bibinitperiod},
+           given={ЕА},
+           giveni={Е\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a3228a6332f8fb6325f8b1ff29de228}
+      \strng{fullhash}{0a3228a6332f8fb6325f8b1ff29de228}
+      \strng{bibnamehash}{0a3228a6332f8fb6325f8b1ff29de228}
+      \strng{authorbibnamehash}{0a3228a6332f8fb6325f8b1ff29de228}
+      \strng{authornamehash}{0a3228a6332f8fb6325f8b1ff29de228}
+      \strng{authorfullhash}{0a3228a6332f8fb6325f8b1ff29de228}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Цифровизация экономики: направления, методы, инструменты}
+      \field{title}{Рекомендации по выбору технологий и фреймворков для разработки бизнес-приложений}
+      \field{year}{2019}
+      \field{pages}{384\bibrangedash 387}
+      \range{pages}{4}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
